@@ -1,6 +1,5 @@
-## Hi 👋, I'm Fadilla Zundina Ulya</h1>
-
-## a passionate Data Science and Data Analyst🌍
+# Hi 👋
+## I'm Fadilla Zundina Ulya, a passionate person in Data Science and Analyst🌍
 
 🔭 I’m currently learn how to make good model, get insight from the data to make the world a better place.
 
@@ -8,9 +7,9 @@
 
 😄 Pronouns: **She/Her.**
 
-📫 How to reach me: **dillafzundina@gmail.com**
+📫 How to reach me: **dilla.fzundina@gmail.com**
 
-⚡ Fun fact: [I'm very diligent person.](I'm very diligent person.)
+⚡ Fun fact: I like busyness.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
