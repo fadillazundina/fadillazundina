@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://kaggle.com/fadillazundinaulya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fadillazundinaulya" height="30" width="40" /></a>
 <a href="https://instagram.com/dillazundina_faa18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dillazundina_faa18" height="30" width="40" /></a>
-<a href="(https://scholar.google.com/citations?hl=id&user=NUD0EX8AAAAJ)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" alt="dillazundina_faa18" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?hl=id&user=NUD0EX8AAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" alt="dillazundina_faa18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
